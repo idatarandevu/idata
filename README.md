@@ -9,4 +9,4 @@
     <li>Bilgilerinizi girerek randevunuzu onaylayın.</li>
 </ul>
 
-<a href="[https://www.siteniz.com/idata-randevu-al](https://vfs-global.com.tr/?p=310)" style="display:inline-block; padding:10px 15px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">Hemen Randevu Al</a>
+<a href="https://vfs-global.com.tr/?p=310" style="display:inline-block; padding:10px 15px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">Hemen Randevu Al</a>
